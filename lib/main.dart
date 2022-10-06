@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:provider_class/consumer/first_screen.dart';
 import 'package:provider_class/controller/app_controller.dart';
-import 'package:provider_class/screen/first_screen.dart';
 
 void main() {
   runApp(ChangeNotifierProvider(

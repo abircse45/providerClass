@@ -15,7 +15,8 @@ class FirstScreen extends StatelessWidget {
         title: Text("State Management"),
         backgroundColor: Colors.red,
       ),
-      body: Center(
+      body:
+      Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           crossAxisAlignment: CrossAxisAlignment.center,
